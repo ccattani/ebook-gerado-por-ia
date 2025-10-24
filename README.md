@@ -20,7 +20,7 @@ O objetivo foi criar um eBook completo — texto, estrutura e design — **total
 O conteúdo do eBook aborda conceitos de **Angular**, **componentização**, **modularidade** e **boas práticas de arquitetura front-end** em um formato didático e visualmente imersivo.
 
 📕 **Acesse o eBook completo:**  
-[👉 Clique aqui para ler](https://github.com/ccattani/ebook-gerado-por-ia)
+[👉 Clique aqui para ler](https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-angularverse-o-codigo-jedi-do-front-end.pdf)
 
 ---
 
