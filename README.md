@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".assets/banner.png">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
 <img 
-    src="./assets/capa.png"
+    src=".assets/capa.png"
     width="400"  
 />
 </p>
@@ -29,8 +29,7 @@ O conteúdo do eBook aborda conceitos de **Angular**, **componentização**, **m
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) — geração de conteúdo textual e estrutura conceitual  
-- [DALL·E](https://openai.com/dall-e) — geração de imagens de capa e páginas  
+- [ChatGPT](https://chat.openai.com/) — geração de conteúdo textual, estrutura conceitual e as imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) — montagem visual e diagramação final  
 - [Angular](https://angular.io/) — inspiração e temática técnica  
 
