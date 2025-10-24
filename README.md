@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="assets/banner.png">
+    <img src="assets/banner.png">
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 <p align="center">
 <img 
     src="assets/capa.png"
-    width="400"  
 />
 </p>
 
