@@ -45,9 +45,7 @@ O conteúdo do eBook aborda conceitos de **Angular**, **componentização**, **m
 
 ## ✨ Features
 
-- Texto e narrativa gerados via **ChatGPT**
-- Imagens criadas via **DALL·E**
-- Estrutura e layout inspirados em **documentação técnica real**
+- Texto, narrativa, imagens, estrutura e layout gerados via **ChatGPT**
 - Visual temático — **galáxia Angular / universo Jedi**
 
 ---
