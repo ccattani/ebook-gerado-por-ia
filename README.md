@@ -9,7 +9,7 @@
 -------
 
 <p align="center">
-    <img width="100" src="assets/_capa.png">
+    <img width="100" src="assets/capa_.png">
 </p>
 
 # 📚 EBOOKS GERADOS COM IA + DIREÇÃO HUMANA
@@ -28,7 +28,8 @@ Ebook técnico que apresenta conceitos de Angular (componentização, modularida
 Mostrar como a IA pode acelerar o processo criativo sem substituir o raciocínio humano no desenvolvimento técnico.
 
 **📕 Ler o eBook:**  
-➡️ *(https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-angularverse-o-codigo-jedi-do-front-end.pdf)*
+
+➡️ <a href="https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-angularverse-o-codigo-jedi-do-front-end.pdf" title="View PDF now"> 📕Ebook Angularverse</a>
 
 **💻 Ferramentas Utilizadas**
 | Ferramenta | Função |
@@ -56,7 +57,7 @@ Ebook narrativo inspirado na estética de Valorant, acompanhando a história de 
 Este é um conteúdo **não oficial**, criado **apenas para fins narrativos e de entretenimento**.
 
 **📕 Ler o eBook:**  
-➡️ *(https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-headshot-protocal.pdf)*
+➡️ <a href="https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-headshot-protocal.pdf" title="View PDF now"> 📕Ebook HEADSHOT PROTOCOL - Origem de um Agente</a>
 
 **🎨 Estética**
 - Paleta em tons de **azul profundo + laranja radianita**
