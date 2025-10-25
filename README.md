@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="50" src="assets/banner.png">
+    <img width="100" src=".github/assets/banner.png">
 </p>
 
 <p align="center">
@@ -9,55 +9,68 @@
 -------
 
 <p align="center">
-    <img width="100" src="assets/capa.png">
+    <img width="100" src="assets/_capa.png">
 </p>
 
-# Projeto EBOOK: **Angularverse – O Código Jedi do Front-End**
+# 📚 EBOOKS GERADOS COM IA + DIREÇÃO HUMANA
 
-> ℹ️ **NOTE:** Este é um projeto experimental desenvolvido com o uso de Inteligência Artificial, explorando como IA pode ser utilizada na criação de conteúdo técnico e visual.
-
-O objetivo foi criar um eBook completo — texto, estrutura e design — **totalmente gerado por IA**, integrando ferramentas modernas para demonstrar como o processo criativo e técnico pode ser potencializado com automação inteligente.  
-O conteúdo do eBook aborda conceitos de **Angular**, **componentização**, **modularidade** e **boas práticas de arquitetura front-end** em um formato didático e visualmente imersivo.
-
-📕 **Acesse o eBook completo:**  
-[👉 Clique aqui para ler](https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-angularverse-o-codigo-jedi-do-front-end.pdf)
+Este repositório reúne projetos criados com apoio de **IA (ChatGPT)** para construção de conteúdo **visual e narrativo**, porém **com direção, curadoria e decisões criativas humanas**.  
+A IA **não atuou de forma autônoma** — cada passo foi orientado, revisado e aprovado manualmente.
 
 ---
 
-## 💻 Tecnologias utilizadas no projeto
+## 🎯 Projeto 01 — *Angularverse: O Código Jedi do Front-End*
 
-- [ChatGPT](https://chat.openai.com/) — geração de conteúdo textual, estrutura conceitual e as imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) — montagem visual e diagramação final  
-- [Angular](https://angular.io/) — inspiração e temática técnica  
+**Descrição:**  
+Ebook técnico que apresenta conceitos de Angular (componentização, modularidade, arquitetura e boas práticas) em uma narrativa inspirada na estética e jornada Jedi.
 
----
+**Objetivo:**  
+Mostrar como a IA pode acelerar o processo criativo sem substituir o raciocínio humano no desenvolvimento técnico.
 
-## 🧠 Prompts utilizados
+**📕 Ler o eBook:**  
+➡️ *(https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-angularverse-o-codigo-jedi-do-front-end.pdf)*
 
-| Ação | Prompt |
-| :--: | :------ |
-| **Título** | Crie um título para um eBook técnico sobre Angular, com uma temática inspirada em Star Wars. Ele deve soar épico e futurista, como “Angularverse: O Código Jedi do Front-End”. |
-| **Capítulos** | Crie 2 capítulos sobre princípios avançados de desenvolvimento com Angular, abordando temas como modularização, componentização e escalabilidade. O tom deve ser narrativo e técnico, como se fosse uma jornada Jedi. |
-| **Imagens** | Gere capas e páginas ilustradas com visual de galáxia, estilo sci-fi, tons escuros com detalhes em laranja e vermelho, e o logo do Angular no topo direito. |
-| **Agradecimentos** | Crie um texto de encerramento agradecendo e destacando o uso de IA como parceira na criação de conteúdo técnico e criativo. |
+**💻 Ferramentas Utilizadas**
+| Ferramenta | Função |
+|-----------|--------|
+| ChatGPT | Criação do conteúdo textual e estrutura dos capítulos |
+| PowerPoint | Diagramação visual e layout final |
+| Angular | Base temática do conteúdo |
 
----
-
-## ✨ Features
-
-- Texto, narrativa, imagens, estrutura e layout gerados via **ChatGPT**
-- Visual temático — **galáxia Angular / universo Jedi**
-
----
-
-## 📚 Materiais
-
-- Imagens finais em `assets/`
-- eBook gerado em `output/`
+**🧠 Exemplos de Prompts Utilizados**
+| Finalidade | Prompt |
+|-----------|--------|
+| Título | "Crie um título épico sobre Angular inspirado na temática Jedi." |
+| Capítulos | "Explique modularização e componentização como uma jornada de aprendizado." |
+| Imagens | "Descreva o estilo visual do universo Angular como um cenário sci-fi." |
+| Encerramento | "Crie um texto de agradecimento reforçando parceria humano + IA." |
 
 ---
 
-## 🛠️ Instruções de execução
+## 🔥 Projeto 02 — *HEADSHOT PROTOCOL: Origem de um Agente*
+
+**Descrição:**  
+Ebook narrativo inspirado na estética de Valorant, acompanhando a história de **Protocol**, um agente moldado por trauma, precisão e auto-descoberta.
+
+**Observação Importante:**  
+Este é um conteúdo **não oficial**, criado **apenas para fins narrativos e de entretenimento**.
+
+**📕 Ler o eBook:**  
+➡️ *(https://github.com/ccattani/ebook-gerado-por-ia/blob/main/output/ebook-headshot-protocal.pdf)*
+
+**🎨 Estética**
+- Paleta em tons de **azul profundo + laranja radianita**
+- Visual inspirado na atmosfera do jogo
+- Ritmo narrativo direto, seco e intenso
+
+**💻 Ferramentas Utilizadas**
+| Ferramenta | Função |
+|-----------|--------|
+| ChatGPT | Roteiro, cenas, diálogos e estrutura narrativa |
+| PowerPoint | Diagramação final e ajustes de layout |
+
+---
+
 
 1. Clone o repositório:
    ```bash
